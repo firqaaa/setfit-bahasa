@@ -1,1 +1,1 @@
-# indo-setfit-sentence-bert-base
+# SetFit for Bahasa Indonesia
